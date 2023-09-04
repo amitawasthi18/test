@@ -1,3 +1,0 @@
-"Name : Amit" 
-"Skills: HTML, CSS, JS, Next.js" 
-"Email: codewith18@gmail.com " 
